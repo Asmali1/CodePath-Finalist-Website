@@ -1,14 +1,42 @@
-Mohamed Asmali
-Hours spent: 16-18 hours
-Implemented Feautures:
-[1] Implemented Dark mode and Light mode with an interchangable logo each time the dark/light mode logo is clicked.
-[2] Website Responsiveness: Made the website acessibly for phone devices with a max-width of 820px or less.
-[3] Navigation Bar: Created a navigation bar at the top of the page to go to different sections of the website. And an Open/Close navigation bar for smaller screens to navigate through website
-[4] Social Media Handles .
-[5] A fully functional Contact Me section that is connected to a google excel sheet. User will be able to input their name, email, and message and a notification will be printed if their message was sent successfully. The google excel sheet will be updated with the message instantly and notify me.
-[6] Hyperlinks to differnet social media pages.
-[7] Rotating 360 degree cubes with images of my faviourte moments during college.
-[8] Section that has 3 tab titles that can be all accessed seperatly containing my technical skills and programming languages, education, and job experience. 
-[9] Section of memorable technical projects. An alt description pops up when hovering over it. Also there is an icon attached to each technical project with a hyperlink to the code.
-[10] CSS Text Typing Animation to outline who I am.
+# CodePath Project by Mohamed Asmali
 
+**Total Hours Spent:** 14 hours
+
+## Implemented Features:
+
+### 1. Dark and Light Mode
+   - Toggle between dark and light mode.
+   - Each mode has an interchangeable logo.
+    
+### 2. Website Responsiveness
+   - Website is optimized for phone devices with a max-width of 820px or less.
+    
+### 3. Navigation Bar
+   - Positioned at the top of the page for easy access to different website sections.
+   - Open/Close functionality for smaller screens.
+    
+### 4. Social Media Handles
+   - Quick links to various social media pages.
+    
+### 5. Contact Me Section
+   - Connected to a Google Excel sheet.
+   - Allows users to input their name, email, and message.
+   - Features a notification system to confirm successful message delivery.
+   - Google Excel sheet is instantly updated upon message submission.
+    
+### 6. Interactive Image Cubes
+   - 360-degree rotating cubes displaying favorite college moments.
+    
+### 7. Profile Tabs
+   - Comprises three separate tabs:
+     1. Technical skills and programming languages.
+     2. Education background.
+     3. Job experience.
+    
+### 8. Technical Projects Showcase
+   - Display of memorable technical projects.
+   - Each project has an alt description that appears on hover.
+   - Accompanied by an icon with a hyperlink to the project code.
+    
+### 9. CSS Text Typing Animation
+   - Creative introduction outlining personal details.
