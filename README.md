@@ -1,6 +1,7 @@
 # CodePath Project by Mohamed Asmali
 
-**[Click here to check the website](https://asmali1.github.io/CodePath-Finalist-Website/)**
+<h1 align="center"><strong>https://asmali1.github.io/CodePath-Finalist-Website/</strong></h1>
+
 
 ## Implemented Features:
 
